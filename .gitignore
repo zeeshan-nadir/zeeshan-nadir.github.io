@@ -1,0 +1,8 @@
+.sass-cache/
+.DS_Store
+_data/comments/.DS_Store
+_includes/.DS_Store
+_sass/.DS_Store
+assets/.DS_Store
+images/.DS_Store
+_site/
