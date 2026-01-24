@@ -1,20 +1,11 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-group :jekyll_plugins do
-  gem 'jekyll'
-  gem 'jekyll-feed'
-  gem 'jekyll-sitemap'
-  gem 'jekyll-redirect-from'
-  gem 'jemoji'
-end
+# Let GitHub Pages pin Jekyll + supported plugins
+gem "github-pages", group: :jekyll_plugins
 
-gem 'github-pages'
-gem 'connection_pool', '2.5.0'
+# Keep ONLY if you truly use these directly in custom Ruby code/plugins.
+# Otherwise remove to avoid conflicts.
+# gem "connection_pool", "2.5.0"
 
-gem "csv", "~> 3.3"
-
-gem "bigdecimal", "~> 4.0"
-
-gem "listen", "~> 3.9"
-
-gem "webrick", "~> 1.9"
+# Usually not needed; GitHub Pages runtime includes webrick when required.
+gem "webrick", "~> 1.8"
