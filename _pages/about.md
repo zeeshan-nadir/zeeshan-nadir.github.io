@@ -28,7 +28,7 @@ redirect_from:
     <p>
    I am an computational imaging scientist with <b>10+ years of experience </b> in computational photography, inverse problems, mathematical & statistical modelling, and deep learning. I am currently a staff engineer at Samsung Research America working on <b> night mode photography</b>. 
    <!-- I have a proven track record of developing commercial grade algorithms for smartphone cameras and have been involved in numerous projects collaborating with many prestigious institutions including Argonne national laboratory, and air force research labs (AFRL).  -->
-   Recently I have been involved in leading projects on <b> generative AI </b> focusing on physics consistent and identity consistent content generation.
+   Recently I have been involved in projects on <b> generative AI </b> focusing on physics consistent and identity consistent content generation.
    I have hands on experience in developing performance critical Pytorch/Tensorflow/C++ systems with strong cross-functional collaboration across hardware, systems, and product teams.
   <br><br><br>
   <a href="/assets/Zeeshan_Resume_Dec-25-2025.pdf" target="_blank" rel="noopener"> <strong>CV</strong></a> / 
@@ -40,15 +40,17 @@ redirect_from:
 
 <hr style="border: none; height: 2px; background-color: #000; margin: 40px 0;">
 
-Research
-======
+<h1 style="margin-left:-250px;"><i><u>Research</u></i></h1>
+
 
 <!-- <img src="../images/outdoor.jpg" alt="A cat" width="200" height="200"> -->
 
-## *Generative Models*
+<!-- ## *<u>Generative Models</u>* -->
 
+<h2 style="margin-left:-250px;"><i><u>Generative Models</u></i></h2>
 
-### SeeU: Seeing the Unseen World via 4D Dynamics-aware Generation
+### <span style="color:white; background:black; padding:4px 8px;"> SeeU: Seeing the Unseen World via 4D Dynamics-aware Generation </span>
+
 <div class="research-item">
   <!-- <div class="research-thumb">
     <img src="../images/research/SeeU/replace.gif" alt="Tomographic Reconstruction" style="width:600px">
@@ -69,7 +71,7 @@ Research
 
 <hr style="border: none; height: 1px; background-color: #000; margin: 40px 0;">
 
-### NewtonGen: Physics-Consistent and Controllable Text-to-Video Generation via Neural Newtonian Dynamics
+### <span style="color:white; background:black; padding:4px 8px;"> Physics-Consistent and Controllable Text-to-Video Generation via Neural Newtonian Dynamics </span>
 <div class="research-item">
   <!-- <div class="research-thumb">
     <img src="../images/research/SeeU/replace.gif" alt="Tomographic Reconstruction" style="width:600px">
@@ -88,8 +90,11 @@ Research
 </div>
 
 <hr style="border: none; height: 2px; background-color: #000; margin: 40px 0;">
-## *Inverse Problems*
-### Tomographic Reconstruction of Gaseous Media using Bayesian Modelling
+
+
+<h2 style="margin-left:-250px;"><i><u>Inverse Problems</u></i></h2>
+### <span style="color:white; background:black; padding:4px 8px;"> Tomographic Reconstruction of Gaseous Media using Bayesian Modelling </span>
+
 
 <div class="research-item">
   <!-- <div class="research-thumb">
@@ -99,9 +104,9 @@ Research
   <div class="research-content">
     <p>
         <img src="../images/research/TDLAT/Gas_Temp.jpg" alt="Tomographic Reconstruction" style="width:400px;display:block; margin:0 auto;"> 
-      <i>Developed a model-based iterative reconstruction (MBIR) framework for imaging gasesous media using Tunable Diode Laser Absorption Tomography (TDLAT). 
-      First, I developed a nonlinear statistical measurement model of spectroscopic measurements and regularize the sparase nature of measurements, I proposed a Gaussian mixture model using a 
-      small basis set that accomodates complex flow structures.</i><br>
+      <i>Developed a model-based iterative reconstruction (MBIR) framework for imaging gasesous media using Diode Laser Absorption Tompography during PhD thesis research under 
+      <a href="https://engineering.purdue.edu/~bouman/">Prof. Charles Bouman</a> at <b>Purdue University</b>.
+      </i><br><br>
       <a href="/projects/tdlat/">[Read more →]</a> / 
       <a href="https://media.proquest.com/media/hms/ORIG/2/xZodI?_s=wDQEqAzJI9KeqT1uXbXOWYk8p8c%3D">[Thesis]</a> / 
       <a href="https://ieeexplore.ieee.org/abstract/document/7025347"> [Paper]</a> / 
@@ -114,18 +119,15 @@ Research
 
 
 <hr style="border: none; height: 2px; background-color: #000; margin: 40px 0;">
-## *Synthetic Data for Deep Learning*
 
-### Sensor-Realistic Synthetic Data Engine for Multi-Frame HDR Photography
+<h2 style="margin-left:-250px;"><i><u>Synthetic Data for Deep Learning</u></i></h2>
+
+### <span style="color:white; background:black; padding:4px 8px;"> Sensor-Realistic Synthetic Data Engine for Multi-Frame HDR Photography </span>
 <div class="research-item">
-  <div class="research-thumb">
-    <img src="../images/research/synthetic_data/syn_data.jpg" alt="Tomographic Reconstruction" style="width:200px; margin-top:50px; margin-left:0px;">
-  </div>
-
   <div class="research-content">
     <p>
-        <!-- <br> <img src="../images/research/synthetic_data/syn_data.jpg" alt="Tomographic Reconstruction" style="width:700px;display:block; margin:0 auto;"> <br> -->
-        <i>This work addresses the lack of realistic training data for deep learning–based multi-frame HDR imaging by introducing a sensor-realistic synthetic data engine. The proposed pipeline augments synthetic multi-exposure images with device-specific sensor characteristics, including noise and color response, to better match real camera behavior. Experiments using a Samsung Galaxy S10 Plus sensor model show that HDR networks fine-tuned with sensor-realistic synthetic data generalize better to real captures than those trained on purely synthetic data. This approach enables scalable, device-aware training data generation for practical HDR imaging systems.</i> <br>
+      <img src="../images/research/synthetic_data/syn_data.jpg" alt="Tomographic Reconstruction" style="width:400px;display:block; margin:0 auto;"> 
+      <i>This work addresses the lack of realistic training data for deep learning–based multi-frame HDR imaging by modeling device-specific sensor characteristics, including noise and color response, to better match real camera behavior.</i> <br>
         <a href="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Hu_Sensor-Realistic_Synthetic_Data_Engine_for_Multi-Frame_High_Dynamic_Range_Photography_CVPRW_2020_paper.pdf"> [Paper]</a> / 
         <a href="https://github.com/nadir-zeeshan/sensor-realistic-synthetic-data"> [Code]</a>.
     </p>
@@ -134,20 +136,13 @@ Research
 
 <hr style="border: none; height: 1px; background-color: #000; margin: 40px 0;">
 
-### Synthetic Data Generation using Dead Leaves
+### <span style="color:white; background:black; padding:4px 8px;"> Synthetic Data Generation using Dead Leaves </span>
 <div class="research-item">
-  <div class="research-thumb">
-    <img src="../images/research/dead_leaves/DL.jpg" alt="Tomographic Reconstruction" style="width:200px; margin-top:10px">
-  </div>
-
   <div class="research-content">
     <p>
+    <img src="../images/research/dead_leaves/DL.jpg" alt="Tomographic Reconstruction" style="width:200px;display:block; margin:0 auto;"> 
         <i>
-            Presented a method for generating realistic synthetic training data using dead leaves images to support AI-based camera applications where ground truth is difficult or impossible to obtain.
-            Starting from a natural raw image in the Bayer domain, we analyze the underlying color distribution and variation statistics and use this information to guide an iterative synthesis process directly in the same raw domain.
-            We iteratively synthesize dead leaves by with controlled geometry until the image is filled. Object textures are blended using color statistics from source images.
-            Optional localized blurring models optical and sensor effects. 
-            The result is a physically plausible raw-domain dead leaves image suitable for scalable, ground-truth–free training of low-level camera AI models.
+            A method for generating realistic synthetic training data using dead leaves images to support AI-based camera applications where ground truth is difficult or impossible to obtain.
         </i> <br>
         <a href="https://patentimages.storage.googleapis.com/6c/1c/97/2a855a4a911de1/US12347110B2.pdf"> [Patent]</a>.
     </p>
@@ -156,18 +151,11 @@ Research
 
 <hr style="border: none; height: 1px; background-color: #000; margin: 40px 0;">
 
-### Generating multi-exposure frames from single input
+### <span style="color:white; background:black; padding:4px 8px;"> Generating multi-exposure frames from single input </span>
 <div class="research-item">
-  <!-- <div class="research-thumb">
-    <img src="../images/research/synthetic_data/syn_data.jpg" alt="Tomographic Reconstruction" style="width:200px; margin-top:50px">
-  </div> -->
-
   <div class="research-content">
     <p>
-        <i>Developed a method and system for generating multiple simulated exposure images from a single input image using a machine-learning model, then combining those exposures into a high-quality final image.
-         Instead of capturing multiple photos at different exposure levels (which can cause blur or artifacts when camera or objects move), the system uses an input image from a camera sensor and applies a convolutional neural network to create several synthetic images that mimic under-exposed, normal-exposed, and over-exposed frames.
-         These generated frames are aligned by design with each other and with the original image, and then blended together to form a final high-dynamic-range (HDR) or enhanced image.
-         The approach improves image capture on devices like smartphones, enabling a single shot to produce image quality similar to multi-shot HDR without motion artifacts, and can be implemented in the device’s processor using software instructions.</i> <br>
+        <i> A method for generating multiple simulated exposure images from a single input image using a deep-learning model, then combining those exposures into a high-quality final image. </i> <br>
         <a href="https://patentimages.storage.googleapis.com/39/21/4d/6b1e4e01cfcbd9/US10944914.pdf"> [Patent]</a>.
     </p>
   </div>
@@ -175,34 +163,28 @@ Research
 
 <hr style="border: none; height: 1px; background-color: #000; margin: 40px 0;">
 
-### Multi-sensor, multi-view, multi-frame, multi-task synthetic image fusion engine for mobile imaging systems
-<div class="research-item">
-  <!-- <div class="research-thumb">
-    <img src="../images/research/synthetic_data/syn_data.jpg" alt="Tomographic Reconstruction" style="width:200px; margin-top:50px">
-  </div> -->
+### <span style="color:white; background:black; padding:4px 8px;"> Multi-sensor, multi-view, multi-frame, multi-task synthetic image fusion engine for mobile imaging systems </span>
 
+<div class="research-item">
   <div class="research-content">
     <p>
-        <i> Developed a deep learing framework for generating synthetic images under different capture conditions from limited input data, enabling advanced image reconstruction without requiring multiple physical captures. 
-        A neural network is trained to learn mappings between input images, their associated meta-data and the desired target images corresponding to different kinds of imaging and computer vision tasks.
-        Once trained, the model can synthesize realistic images that approximate what a camera would have captured under alternative settings, such as different exposures or processing pipelines.</i> <br>
+        <i> A deep learing framework for generating synthetic images under different capture conditions from limited input data, enabling advanced image reconstruction without requiring multiple physical captures by learning mappings between input images, their associated meta-data and the desired target images corresponding to different kinds of imaging and computer vision tasks.</i> <br>
         <a href="https://patentimages.storage.googleapis.com/f1/c3/7d/0a00101e17b704/US11720782.pdf"> [Patent]</a>.
     </p>
   </div>
 </div>
 
 <hr style="border: none; height: 2px; background-color: #000; margin: 40px 0;">
-## *Deep Learning Based Computational Photography*
 
-### Mobile Aware Denoiser Network (MADNet) for Quad Bayer Images
+<h2 style="margin-left:-250px;"><i><u>Deep Learning Based Computational Photography</u></i></h2>
+
+### <span style="color:white; background:black; padding:4px 8px;"> Mobile Aware Denoiser Network (MADNet) for Quad Bayer Images </span>
+
 <div class="research-item">
-  <div class="research-thumb">
-    <img src="../images/research/madnet/madnet.jpg" alt="Tomographic Reconstruction" style="width:200px; margin-top:50px">
-  </div>
-
   <div class="research-content">
     <p>
-        <i> Introduced MADNet, a deep-learning denoising framework specifically designed for Quad Bayer image sensors used in high-resolution smartphone cameras, where traditional denoising methods struggle due to the unique raw pixel layout and large data volume. We propose an efficient way to group Quad Bayer pixels into four channels for input to a denoising network, balancing image quality and inference speed, and  introduce a novel inter-channel loss function that helps train the model without overfitting. The approach operates on raw Quad Bayer data prior to demosaicing, preserving fine detail while reducing noise, and yields better denoised images than conventional techniques. Extensive experiments and ablation studies demonstrate that the proposed pixel grouping and loss regularization improve both visual quality and objective metrics, making MADNet well-suited for mobile imaging application where real-time performance and high visual fidelity are critical.</i> <br>
+        <img src="../images/research/madnet/madnet.jpg" alt="Tomographic Reconstruction" style="width:400px;display:block; margin:0 auto;"> 
+        <i> MADNet is a deep-learning denoising framework specifically designed for Quad Bayer image sensors used in high-resolution smartphone cameras, where traditional denoising methods struggle due to the unique raw pixel layout and large data volume.</i> <br>
         <a href="https://openaccess.thecvf.com/content/CVPR2024W/UG2/papers/Madhusudana_Mobile_Aware_Denoiser_Network_MADNet_for_Quad_Bayer_Images_CVPRW_2024_paper.pdf"> [Paper]</a> / 
         <a href="https://patentimages.storage.googleapis.com/e7/d3/ee/055023be076cdc/US20250200720A1.pdf"> [Patent]</a>.
     </p>
@@ -210,15 +192,16 @@ Research
 </div>
 
 <hr style="border: none; height: 2px; background-color: #000; margin: 40px 0;">
-## *Computer Vision*
 
-### Enhancing human subjects in smartphone images
+<h2 style="margin-left:-250px;"><i><u>Computer Vision</u></i></h2>
+
+### <span style="color:white; background:black; padding:4px 8px;"> Enhancing human subjects in smartphone images </span>
+
+
 <div class="research-item">
-  <div class="research-thumb">
-    <img src="../images/research/face_enhancement/face_enhance.jpg" alt="Tomographic Reconstruction" style="width:200px; margin-top:50px">
-  </div>
   <div class="research-content">
     <p>
+        <img src="../images/research/face_enhancement/face_enhance.jpg" alt="Tomographic Reconstruction" style="width:400px;display:block; margin:0 auto;">
         <i> 
             Introduce an AI based framework that automatically enhances human faces in smartphone images. The system is based on training a deep learning model first to segment out human subject from the images followed by finding pixels corresponding to facial regions using color processing. 
             Based on the segmentation map and facial pixels, the face region is enhanced by changing contrast and brightness. 
