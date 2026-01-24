@@ -40,14 +40,14 @@ redirect_from:
 
 <hr style="border: none; height: 2px; background-color: #000; margin: 40px 0;">
 
-<h1 style="margin-left:-250px;"><i><u>Research</u></i></h1>
+<h1 style="margin-left:-250px;"><i><u>Selected Research Highlights</u></i></h1>
 
 
 <!-- <img src="../images/outdoor.jpg" alt="A cat" width="200" height="200"> -->
 
 <!-- ## *<u>Generative Models</u>* -->
 
-<h2 style="margin-left:-250px;"><i><u>Generative Models</u></i></h2>
+<h2 style="margin-left:-250px;"><i><u>Generative AI</u></i></h2>
 
 ### <span style="color:white; background:black; padding:4px 8px;"> SeeU: Seeing the Unseen World via 4D Dynamics-aware Generation </span>
 
