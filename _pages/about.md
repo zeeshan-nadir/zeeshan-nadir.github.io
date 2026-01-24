@@ -21,7 +21,7 @@ redirect_from:
 
 <div class="research-item">
   <div class="research-thumb">
-      <img src="../images/Thumbnail.jpg" alt="Thumbnail" style="width:200px">
+      <img src="{{ '/images/Thumbnail.jpg' | relative_url }}" alt="Thumbnail" style="width:200px">
   </div>
 
   <div class="research-content">
