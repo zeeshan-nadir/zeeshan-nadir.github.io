@@ -105,7 +105,7 @@ redirect_from:
     <p>
         <img src="../images/research/TDLAT/Gas_Temp.jpg" alt="Tomographic Reconstruction" style="width:400px;display:block; margin:0 auto;"> 
       <i>Developed a model-based iterative reconstruction (MBIR) framework for imaging gasesous media using Diode Laser Absorption Tompography during PhD thesis research under 
-      <a href="https://engineering.purdue.edu/~bouman/">Prof. Charles Bouman</a> at <b>Purdue University</b>.
+      <a href="https://engineering.purdue.edu/~bouman/" target="_blank">Prof. Charles Bouman</a> at <b>Purdue University</b>.
       </i><br><br>
       <a href="/projects/tdlat/">[Read more →]</a> / 
       <a href="https://docs.lib.purdue.edu/dissertations/AAI10842834/" target="_blank">[Thesis]</a> / 
