@@ -31,7 +31,7 @@ redirect_from:
    Recently I have been involved in projects on <b> generative AI </b> focusing on physics consistent and identity consistent content generation.
    I have hands on experience in developing performance critical Pytorch/Tensorflow/C++ systems with strong cross-functional collaboration across hardware, systems, and product teams.
   <br><br><br>
-  <a href="/assets/Zeeshan_Resume_Dec-25-2025.pdf" target="_blank" rel="noopener"> <strong>CV</strong></a> / 
+  <a href="/assets/Zeeshan_Resume_Jan-24-2026" target="_blank" rel="noopener"> <strong>CV</strong></a> / 
   <a href="https://www.linkedin.com/in/zeeshan-nadir/"><strong>LinkedIn</strong></a> / 
   <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=lHj-_TkAAAAJ&sortby=pubdate/"><strong>Google Scholar</strong></a>.
     </p>
