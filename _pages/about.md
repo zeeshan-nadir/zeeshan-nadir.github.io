@@ -32,8 +32,8 @@ redirect_from:
    I have hands on experience in developing performance critical Pytorch/Tensorflow/C++ systems with strong cross-functional collaboration across hardware, systems, and product teams.
   <br><br><br>
   <a href="/assets/Zeeshan_Resume_Jan-24-2026" target="_blank" rel="noopener"> <strong>CV</strong></a> / 
-  <a href="https://www.linkedin.com/in/zeeshan-nadir/"><strong>LinkedIn</strong></a> / 
-  <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=lHj-_TkAAAAJ&sortby=pubdate/"><strong>Google Scholar</strong></a>.
+  <a href="https://www.linkedin.com/in/zeeshan-nadir/" target="_blank"><strong>LinkedIn</strong></a> / 
+  <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=lHj-_TkAAAAJ&sortby=pubdate/" target="_blank"><strong>Google Scholar</strong></a>.
     </p>
   </div>
 </div>
@@ -63,9 +63,9 @@ redirect_from:
       <i> A novel 2D→4D→2D framework that reconstructs a continuous 4D world from sparse monocular video and learns its dynamics under low-rank and physical constraints.
       By modeling motion in continuous 4D space-time, SeeU generates physically consistent unseen views and unobserved time frames.
       </i><br>
-      <a href="https://arxiv.org/abs/2512.03350">[arXiv]</a> / 
-      <a href="https://huggingface.co/datasets/pandaphd/SeeU45"> [Dataset]</a> / 
-      <a href="https://github.com/pandayuanyu/SeeU"> [Code]</a>.</p>
+      <a href="https://arxiv.org/abs/2512.03350" target="_blank">[arXiv]</a> / 
+      <a href="https://huggingface.co/datasets/pandaphd/SeeU45" target="_blank"> [Dataset]</a> / 
+      <a href="https://github.com/pandayuanyu/SeeU" target="_blank"> [Code]</a>.</p>
   </div>
 </div>
 
@@ -84,8 +84,8 @@ redirect_from:
       <i> A novel 2D→4D→2D framework that reconstructs a continuous 4D world from sparse monocular video and learns its dynamics under low-rank and physical constraints.
       By modeling motion in continuous 4D space-time, SeeU generates physically consistent unseen views and unobserved time frames.
       </i><br>
-      <a href="https://arxiv.org/abs/2509.21309">[arXiv]</a> / 
-      <a href="https://github.com/pandayuanyu/NewtonGen"> [Code]</a>. </p>
+      <a href="https://arxiv.org/abs/2509.21309" target="_blank">[arXiv]</a> / 
+      <a href="https://github.com/pandayuanyu/NewtonGen" target="_blank"> [Code]</a>. </p>
   </div>  
 </div>
 
@@ -108,12 +108,12 @@ redirect_from:
       <a href="https://engineering.purdue.edu/~bouman/">Prof. Charles Bouman</a> at <b>Purdue University</b>.
       </i><br><br>
       <a href="/projects/tdlat/">[Read more →]</a> / 
-      <a href="https://media.proquest.com/media/hms/ORIG/2/xZodI?_s=wDQEqAzJI9KeqT1uXbXOWYk8p8c%3D">[Thesis]</a> / 
-      <a href="https://ieeexplore.ieee.org/abstract/document/7025347"> [Paper]</a> / 
-      <a href="https://ieeexplore.ieee.org/abstract/document/7418251"> [Paper]</a> / 
-      <a href="https://arc.aiaa.org/doi/abs/10.2514/6.2018-1361"> [Paper]</a> / 
-      <a href="https://ieeexplore.ieee.org/abstract/document/8451063"> [Paper]</a> /
-      <a href="https://library.imaging.org/ei/articles/33/15/art00008"> [Paper]</a>. </p>
+      <a href="https://docs.lib.purdue.edu/dissertations/AAI10842834/" target="_blank">[Thesis]</a> / 
+      <a href="https://ieeexplore.ieee.org/abstract/document/7025347" target="_blank"> [Paper]</a> / 
+      <a href="https://ieeexplore.ieee.org/abstract/document/7418251" target="_blank"> [Paper]</a> / 
+      <a href="https://arc.aiaa.org/doi/abs/10.2514/6.2018-1361" target="_blank"> [Paper]</a> / 
+      <a href="https://ieeexplore.ieee.org/abstract/document/8451063" target="_blank"> [Paper]</a> /
+      <a href="https://library.imaging.org/ei/articles/33/15/art00008" target="_blank"> [Paper]</a>. </p>
   </div>
 </div>
 
@@ -128,8 +128,8 @@ redirect_from:
     <p>
       <img src="../images/research/synthetic_data/syn_data.jpg" alt="Tomographic Reconstruction" style="width:400px;display:block; margin:0 auto;"> 
       <i>This work addresses the lack of realistic training data for deep learning–based multi-frame HDR imaging by modeling device-specific sensor characteristics, including noise and color response, to better match real camera behavior.</i> <br>
-        <a href="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Hu_Sensor-Realistic_Synthetic_Data_Engine_for_Multi-Frame_High_Dynamic_Range_Photography_CVPRW_2020_paper.pdf"> [Paper]</a> / 
-        <a href="https://github.com/nadir-zeeshan/sensor-realistic-synthetic-data"> [Code]</a>.
+        <a href="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Hu_Sensor-Realistic_Synthetic_Data_Engine_for_Multi-Frame_High_Dynamic_Range_Photography_CVPRW_2020_paper.pdf" target="_blank"> [Paper]</a> / 
+        <a href="https://github.com/nadir-zeeshan/sensor-realistic-synthetic-data" target="_blank"> [Code]</a>.
     </p>
   </div>
 </div>
@@ -144,7 +144,7 @@ redirect_from:
         <i>
             A method for generating realistic synthetic training data using dead leaves images to support AI-based camera applications where ground truth is difficult or impossible to obtain.
         </i> <br>
-        <a href="https://patentimages.storage.googleapis.com/6c/1c/97/2a855a4a911de1/US12347110B2.pdf"> [Patent]</a>.
+        <a href="https://patentimages.storage.googleapis.com/6c/1c/97/2a855a4a911de1/US12347110B2.pdf" target="_blank"> [Patent]</a>.
     </p>
   </div>
 </div>
@@ -156,7 +156,7 @@ redirect_from:
   <div class="research-content">
     <p>
         <i> A method for generating multiple simulated exposure images from a single input image using a deep-learning model, then combining those exposures into a high-quality final image. </i> <br>
-        <a href="https://patentimages.storage.googleapis.com/39/21/4d/6b1e4e01cfcbd9/US10944914.pdf"> [Patent]</a>.
+        <a href="https://patentimages.storage.googleapis.com/39/21/4d/6b1e4e01cfcbd9/US10944914.pdf" target="_blank"> [Patent]</a>.
     </p>
   </div>
 </div>
@@ -169,7 +169,7 @@ redirect_from:
   <div class="research-content">
     <p>
         <i> A deep learing framework for generating synthetic images under different capture conditions from limited input data, enabling advanced image reconstruction without requiring multiple physical captures by learning mappings between input images, their associated meta-data and the desired target images corresponding to different kinds of imaging and computer vision tasks.</i> <br>
-        <a href="https://patentimages.storage.googleapis.com/f1/c3/7d/0a00101e17b704/US11720782.pdf"> [Patent]</a>.
+        <a href="https://patentimages.storage.googleapis.com/f1/c3/7d/0a00101e17b704/US11720782.pdf" target="_blank"> [Patent]</a>.
     </p>
   </div>
 </div>
@@ -185,8 +185,8 @@ redirect_from:
     <p>
         <img src="../images/research/madnet/madnet.jpg" alt="Tomographic Reconstruction" style="width:400px;display:block; margin:0 auto;"> 
         <i> MADNet is a deep-learning denoising framework specifically designed for Quad Bayer image sensors used in high-resolution smartphone cameras, where traditional denoising methods struggle due to the unique raw pixel layout and large data volume.</i> <br>
-        <a href="https://openaccess.thecvf.com/content/CVPR2024W/UG2/papers/Madhusudana_Mobile_Aware_Denoiser_Network_MADNet_for_Quad_Bayer_Images_CVPRW_2024_paper.pdf"> [Paper]</a> / 
-        <a href="https://patentimages.storage.googleapis.com/e7/d3/ee/055023be076cdc/US20250200720A1.pdf"> [Patent]</a>.
+        <a href="https://openaccess.thecvf.com/content/CVPR2024W/UG2/papers/Madhusudana_Mobile_Aware_Denoiser_Network_MADNet_for_Quad_Bayer_Images_CVPRW_2024_paper.pdf" target="_blank"> [Paper]</a> / 
+        <a href="https://patentimages.storage.googleapis.com/e7/d3/ee/055023be076cdc/US20250200720A1.pdf" target="_blank"> [Patent]</a>.
     </p>
   </div>
 </div>
@@ -206,7 +206,7 @@ redirect_from:
             Introduce an AI based framework that automatically enhances human faces in smartphone images. The system is based on training a deep learning model first to segment out human subject from the images followed by finding pixels corresponding to facial regions using color processing. 
             Based on the segmentation map and facial pixels, the face region is enhanced by changing contrast and brightness. 
         </i><br> 
-        <a href="https://patentimages.storage.googleapis.com/01/a0/e3/c4f7729f3a28f6/US12230053.pdf"> [Paper]</a>. 
+        <a href="https://patentimages.storage.googleapis.com/01/a0/e3/c4f7729f3a28f6/US12230053.pdf" target="_blank"> [Paper]</a>. 
     </p>
   </div>
 </div>
